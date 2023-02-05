@@ -1,0 +1,15 @@
+###########################################################Python##########################################################################################33
+####################################################Rapid_fire#################################################################
+
+
+
+Write a function that takes a string as an argument and returns the number of vowels in it.
+Write a function that takes a list as an argument and returns the second largest number in the list.
+Write a function that takes two strings as arguments and returns True if one is a permutation of the other, and False otherwise.
+Write a function that takes a list of numbers as an argument and returns the sum of all even numbers in the list.
+Write a function that takes a string as an argument and returns the first non-repeated character in the string.
+Write a function that takes a list of numbers as an argument and returns a new list that contains only the unique elements from the original list.
+Write a function that takes a string as an argument and returns a new string with all the vowels removed.
+Write a function that takes a list of numbers as an argument and returns the largest sum of any contiguous sub-list of the list.
+Write a function that takes a string as an argument and returns the first longest palindrome in the string.
+Write a function that takes a list of numbers as an argument and returns the second smallest number in the list.
