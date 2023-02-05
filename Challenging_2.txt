@@ -1,0 +1,13 @@
+##############################################################################Visual Basic###################################################################
+################################################Rapid_fire#######################################################
+
+What is the difference between a TextBox and a Label control in Visual Basic?
+How do you change the font size of a Label control in Visual Basic?
+What is the purpose of the Do Until loop in Visual Basic?
+What is the difference between the And operator and the AndAlso operator in Visual Basic?
+How do you create an array in Visual Basic?
+What is the purpose of the IsNot operator in Visual Basic?
+How do you check if a TextBox is empty in Visual Basic?
+How do you convert a string to an integer in Visual Basic?
+What is the output of the following code snippet in Visual Basic: If 5 > 3 Then MsgBox("5 is greater than 3") Else MsgBox("3 is greater than 5")?
+What is the purpose of the Try...Catch statement in Visual Basic?
