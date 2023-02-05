@@ -7,3 +7,32 @@ How do you convert a string to a float in Python?
 What is the output of the following code snippet: a = 5; print(a is 5)?
 What is the output of the following code snippet: a = [1, 2, 3]; b = [1, 2, 3]; print(a is b)?
 What is the output of the following code snippet: a = [1, 2, 3]; b = a; b = [4, 5, 6]; print(a)?
+##################################################################################################################################################################
+Code that can be written under 5~10 mins Python
+##################################################################################################################################################################
+
+Write a Python function to calculate the factorial of a given number.
+Write a Python function to check if a number is prime or not.
+Write a Python function to reverse a string.
+Write a Python function to find the second largest number in a list of numbers.
+Write a Python function to check if a string is a palindrome or not.
+Write a Python function to find the most common word in a string.
+Write a Python function to generate all the permutations of a list.
+Write a Python function to check if two given strings are anagrams or not.
+Write a Python function to check if a given number is armstrong number or not.
+Write a Python function to sort a list of dictionaries by a given key.
+
+###################################################################################################################################################################
+Code that can be written under 5~10 mins Visual Basic
+####################################################################################################################################################################
+
+Write a program to calculate the sum of two numbers.
+Write a program to find the largest of three numbers.
+Write a program to check if a number is even or odd.
+Write a program to print the first 10 Fibonacci numbers.
+Write a program to print the multiplication table of a given number.
+Write a program to find the factorial of a number.
+Write a program to print the first 100 prime numbers.
+Write a program to find the greatest common divisor (GCD) of two numbers.
+Write a program to convert a given number from decimal to binary.
+Write a program to calculate the area of a triangle given the lengths of its sides.
