@@ -22,3 +22,6 @@ def factorial(n):
     for i in range(1, n + 1):
         result = result * i
     return int(result)
+
+#This program calculates the number of combinations of k items that can be chosen from n items. 
+#The bug in the program is that the result of factorial is being treated as a float even though it is an integer. This causes inaccuracies when calculating combinations.
