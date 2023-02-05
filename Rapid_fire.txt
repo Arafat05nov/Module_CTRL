@@ -1,0 +1,9 @@
+What is the output of the following code snippet: print(5 / 2)?
+What is the data type of the result of the following expression: "5" + 5?
+What is the output of the following code snippet: print(5 // 2)?
+What is the output of the following code snippet: print(5 % 2)?
+What is the output of the following code snippet: a = [1, 2, 3]; b = a; b[0] = 5; print(a)?
+How do you convert a string to a float in Python?
+What is the output of the following code snippet: a = 5; print(a is 5)?
+What is the output of the following code snippet: a = [1, 2, 3]; b = [1, 2, 3]; print(a is b)?
+What is the output of the following code snippet: a = [1, 2, 3]; b = a; b = [4, 5, 6]; print(a)?
