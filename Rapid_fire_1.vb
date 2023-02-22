@@ -48,7 +48,7 @@ Module Module4
             Dim squareRoot As Double = 0.0
             Dim prevSquareRoot As Double = -1.0
 
-            ' Iterate until we get the closest square root value'
+           
             While squareRoot <> prevSquareRoot
                 prevSquareRoot = squareRoot
                 squareRoot = (squareRoot + num / squareRoot) / 2
@@ -81,6 +81,5 @@ Module Module5
         Console.WriteLine("UPPER CASE " & upperCount)
         Console.WriteLine("LOWER CASE " & lowerCount)
     End Sub
-    ' Example usage:
-    ' CountUpperCaseLowerCase("Hello world!")
+    
 
